@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Probe
+  - Battery
+  - Holetile
+  - Tilemap
+  - Object
+  - SelectableObject
+  - SelectableTilemap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Holetile
+  - Water
+  - UI
+  - Node
+  - prob
+  - Object
+  - tilemap
+  - button
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

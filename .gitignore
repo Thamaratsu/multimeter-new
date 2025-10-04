@@ -1,0 +1,45 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+# Uncomment this line if you don't want to track meta files for ignored assets
+# *.meta
+
+# User-specific files
+UserSettings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider / JetBrains
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db   # Visual Studio database file
+.idea/    # JetBrains Rider project folder
+.vscode/  # VS Code settings
+
+# Crash Reports
+sysinfo.txt
+
+# Auto-generated build artifacts
+*.apk
+*.aab
+*.unitypackage

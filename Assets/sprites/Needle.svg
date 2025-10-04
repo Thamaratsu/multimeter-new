@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Needle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.3539 514.1261">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ee224a;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <line class="cls-1" x1="109.5413" y1="84.8831" x2="201.8204" y2="174.2448"/>
+</svg>

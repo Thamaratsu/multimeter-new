@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Rotate" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 517.7835 514.1261">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #a7a9ac;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="462.5782" cy="380.8021" r="54.7053"/>
+  <g>
+    <line class="cls-1" x1="456.2805" y1="328.9214" x2="456.2805" y2="433.7493"/>
+    <line class="cls-1" x1="467.478" y1="328.9214" x2="467.478" y2="433.6628"/>
+    <line class="cls-1" x1="459.7536" y1="329.6996" x2="459.7536" y2="338.5338"/>
+    <line class="cls-1" x1="463.7455" y1="329.6996" x2="463.7455" y2="338.5338"/>
+  </g>
+</svg>
