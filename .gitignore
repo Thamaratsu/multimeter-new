@@ -8,11 +8,11 @@
 
 # ยกเว้น docs/Build สำหรับ WebGL
 [Bb]uild/        # ignore Unity Build folder ปกติ
-!docs/Build/     # แต่ track docs/Build
-!docs/Build/**   # track ทุกไฟล์ใน docs/Build
+!docs/Build/     # track docs/Build
+!docs/Build/**   # trackทุกไฟล์ใน docs/Build
 
-# Asset meta data should only be ignored when the corresponding asset is also ignored
-# *.meta
+# Asset meta data
+*.meta
 
 # User-specific files
 UserSettings/
@@ -42,7 +42,7 @@ Thumbs.db
 # Crash Reports
 sysinfo.txt
 
-# Auto-generated build artifacts
+# Auto-generated build artifacts (ไม่ track)
 *.apk
 *.aab
 *.unitypackage
