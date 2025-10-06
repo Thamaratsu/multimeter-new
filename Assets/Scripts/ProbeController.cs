@@ -78,7 +78,7 @@ public class ProbeController : MonoBehaviour
 
     void TryStartDrag(Vector3 inputWorldPos)
     {
-        float dragRadius = 0.1f;
+        float dragRadius = 0.25f;
         if (probe1End != null && Vector3.Distance(inputWorldPos, probe1End.position) < dragRadius)
             draggingProbe = probe1End;
         else if (probe2End != null && Vector3.Distance(inputWorldPos, probe2End.position) < dragRadius)
